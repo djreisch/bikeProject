@@ -1,6 +1,6 @@
 # Idea
 
-My idea for the project was to have a simple button mounted on the outside of my CBR250R that would be able to open my garage door. After intial testing I figured I would work in frame mounted led's to the project as well.
+My idea for the project was to have a simple button mounted on the outside of my CBR250R that would be able to open my garage door. After intial testing I figured I would work in frame mounted LEDs to the project as well.
 
 
 # Implementation
